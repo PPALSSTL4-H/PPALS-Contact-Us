@@ -19,10 +19,10 @@
   
     <br>
     <a href="
-  <a herf="https://urlzs.com/AW8y">PPALS Facebook</a>
+  <a herf="https://urlzs.com/AW8y">Contact US on Facebook</a>
   <br>
-  <a href="https://www.instagram.com/4h_ppals/">PPALS Instagram</a>
-    </p>
+  <a href="https://www.instagram.com/4h_ppals/">or Instagram</a>
+    
   </body>
 </html>
 
