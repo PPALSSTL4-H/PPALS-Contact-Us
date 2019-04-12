@@ -6,6 +6,8 @@
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
+    <p>
+    
     <h1>We are PPALS</h1>
     <h3>Which stands for Preventing Population of Animals Living on Streets.</h3>
     
