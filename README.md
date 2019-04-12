@@ -15,7 +15,7 @@
     
     <a href="https://ppalsstl4-h.github.io/PPALS-Contact-Us/">Contact Us</a>
     <p>
-      <h3>REACH US</h3>
+      <h4>REACH US</h4>
       Here are some ways you can reach us
     <br>
     <br>
