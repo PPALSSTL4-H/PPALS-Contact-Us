@@ -21,7 +21,9 @@
   
   <a herf"https://urlzs.com/AW8y">Contact US on Facebook</a>
   <br>
-  <a href="https://www.instagram.com/4h_ppals/">or onInstagram</a>
+  <a href="https://www.instagram.com/4h_ppals/">or on Instagram</a>
+  
+  
     
   </body>
 </html>
