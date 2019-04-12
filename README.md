@@ -6,14 +6,11 @@
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
-    <h1>ENGLER PARK</h1>
-    <h3>Farmington, MO</h3>
-    <a href="index.html">Home</a>
-    <a href="info.html">Info</a>
-    <a href="flowers.html">Flowers</a>
-    <a href="butterflies.html">Butterflies</a>
-    <a href="map.html">Map</a>
-    <a href="reach%20us.html">Reach Us</a>
+    <h1>We are PPALS</h1>
+    <h3>Which stands for Preventing Population of Animals Living on Streets.</h3>
+    
+    <a href="https://ppals-stl-4-h.github.io/PPALS_STL_4H/">Home</a>
+    <a href="https://ppalsstl4-h.github.io/PPALS-Contact-Us/">Contact Us</a>
     <p>
       <h3>REACH US</h3>
       Here are some ways you can reach 
